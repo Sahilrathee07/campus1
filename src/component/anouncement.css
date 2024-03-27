@@ -1,0 +1,36 @@
+.anu-box{
+    width: 95vw;
+    margin-top: 5vh;
+    margin-left: 40vw;
+}
+.anu-box1 {
+    gap: 1rem;
+    display: flex;
+}
+.show-box{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: rgba(240, 255, 255, 0.452);
+    border-radius: 20px;
+}
+.show1{
+    display: flex;
+    justify-content: center;
+    /* background-color: rgb(15, 93, 209); */
+    width: 96vw;
+    
+}
+.show2{
+    width: 80vw;
+    margin-left: 10vw;
+}
+.show3{
+    margin-top: 4vh;
+}
+
+.part4{
+    margin-top: 100px;
+}

@@ -1,0 +1,33 @@
+.fed-nav{
+    height: 20vh;
+    width: 95vw;
+    margin-top: 1vh;
+}
+.fed-cont {
+    height: 70vh;
+    width: 85vw;
+    padding-top: 20px;
+    padding-left: 10vw;
+    padding-bottom: 20px;
+    text-align: center;
+    display: flex;
+    justify-content:left;
+    gap: 2rem;
+    box-shadow: 0 20px 20px 10px;
+    margin-top: 19vh;
+    margin-left: 2vw;
+}
+.fed-coun2{
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-right: 40px;
+    background-color: #4b637e;
+    border-radius: 20px;
+}
+.fed-form{
+    gap: 0.5rem;
+}
+.fed-img{
+    height: 50vh;
+    border-radius: 10%;
+}

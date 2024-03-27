@@ -1,0 +1,71 @@
+.tutor{
+    overflow: auto;
+}
+#tech-btn{
+    margin-left: 86vw;
+    margin-top: 18vh;
+}
+.tech-form{
+    margin-top: 1vh;
+    margin-left: 300px;
+    display: flex;
+    flex-direction: column; 
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    padding-left: 10px;
+    gap: 5px;
+    background-color: rgba(240, 255, 255, 0.452);
+    color: black;
+}
+.tech-form input{
+    height: 30px;
+}
+.tech-form button {
+    height: 30px;
+    background-color: rgba(47, 131, 187, 0.938);
+    color: black;
+}
+
+.tech-box {
+    color: black;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: rgba(240, 255, 255, 0.452);
+}
+.tech-lis{
+    list-style-type: none;
+}
+.tech-box1 {
+    width: 300px;
+    height: 200px;
+    border-radius: 10%;
+}
+.tech-box img{
+    padding-left: 0px;
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.tech-box2 {
+    width: 300px;
+    height: 200px;
+    text-align: center;
+}
+.tech-box2 h2{
+    color: black;
+    line-height: 4;
+    display: inline-block;
+    vertical-align: middle;
+} 
+.tech-box3 {
+    text-align: center;
+    width: 600px;
+    height: 200px;
+}

@@ -1,0 +1,32 @@
+.box{
+    height: 350px;
+    width: 800px;
+    margin-top: 20vh;
+    margin-left: 20vw;
+    padding-top: 20px;
+    padding-left: 40px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.box input {
+    width: 700px;
+}
+.box h3 {
+    color: black;
+}
+
+.box textarea{
+    width: 700px;
+    border: 1px solid rgb(202, 200, 200);
+}
+
+.submit{
+    display: flex;
+    gap: 1rem;
+}
+
+.submit button{
+    background-color: #325580;
+    color: #fff;
+}
